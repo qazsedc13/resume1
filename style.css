@@ -46,6 +46,11 @@ p {
 	margin-left:10px;
 }
 
+.spisok_2 {
+	margin-left: 15px;
+	font-style: italic;
+}
+
 #cv {
 	width: 90%;
 	max-width: 800px;
